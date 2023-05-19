@@ -1,2 +1,2 @@
-# Sprint2-EDGE
+# Sprint2-EDGE link: https://www.tinkercad.com/things/7lFAUPbjtk0
 O projeto tem a ideia de que ao o deficiente fisico pressionar o botão tanto no ponto de ônibus para embarcar e para desembarcar será assim enviado sinais de led, um barulho e uma mensagem sera escrita no LCD para assim avisar ao moorista a presença do deificiente fisíco e ele tomar as devidas providências. Fizemos melhorias quanto a primeira entrga< adicionando um LCD para assim melhorar a funcionalidade. Adicionando o LCD a mensagem "Deficiente Fisico" aparece para o motorista assim facilitando a transmissão. 
